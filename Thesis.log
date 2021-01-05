@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.10.15)  3 JAN 2021 17:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.10.15)  4 JAN 2021 20:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2014,19 +2014,89 @@ e (quanjiao) on input line 8.
 
 ) [2
 
-] (./Tex/Mainmatter.tex) (./Thesis.bbl
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.53937pt on input line 1.
-) [1
+] (./Tex/Mainmatter.tex [1
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 75.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 75.
+Overfull \hbox (10.07028pt too wide) in paragraph at lines 19--20
+[]\C70/rm/m/n/12.045/90 ^^Z \C70/rm/m/n/12.045/8f Ç Ñ \C70/rm/m/n/12.045/5e t \
+C70/rm/m/n/12.045/67 e \C70/rm/m/n/12.045/52 ^^F \C70/rm/m/n/12.045/5e ^^C \C70
+/rm/m/n/12.045/60 Å \C70/rm/m/n/12.045/51 µ \C70/rm/m/n/12.045/53 ï \C70/rm/m/n
+/12.045/4e å \C70/rm/m/n/12.045/77  \C70/rm/m/n/12.045/51 ú|\C70/rm/m/n/12.045
+/ff ^^L| \C70/rm/m/n/12.045/8d … \C70/rm/m/n/12.045/8f Ç\T1/ntxtlf/m/n/12.045 6
+0%\C70/rm/m/n/12.045/76 „ \C70/rm/m/n/12.045/8b º \C70/rm/m/n/12.045/65 ‡ \C70/
+rm/m/n/12.045/57 (\T1/ntxtlf/m/n/12.045 2015\C70/rm/m/n/12.045/5e t \C70/rm/m/n
+/12.045/4e K \C70/rm/m/n/12.045/54 ^^N \C70/rm/m/n/12.045/53 Ñ \C70/rm/m/n/12.0
+45/88 h|\C70/rm/m/n/12.045/ff ^^L| \C70/rm/m/n/12.045/8f Ñ\T1/ntxtlf/m/n/12.045
+ 50%\C70/rm/m/n/12.045/76 „
+ []
+
+<Img/1.jpg, id=277, 584.93532pt x 385.44pt>
+File: Img/1.jpg Graphic file (type jpg)
+<use Img/1.jpg>
+Package pdftex.def Info: Img/1.jpg  used on input line 23.
+(pdftex.def)             Requested size: 250.273pt x 164.91846pt.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.53937pt on input line 24.
+LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <10.53937> not availabl
+e
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 24.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.53937pt on input line 24.
+
+Overfull \hbox (14.09323pt too wide) in paragraph at lines 31--32
+\C70/rm/m/n/12.045/7c û \C70/rm/m/n/12.045/7e ß \C70/rm/m/n/12.045/75 ^^_ \C70/
+rm/m/n/12.045/62 ^^P \C70/rm/m/n/12.045/4e †\T1/ntxtlf/m/n/12.045 40\C70/rm/m/n
+/12.045/67 a \C70/rm/m/n/12.045/6c è \C70/rm/m/n/12.045/91 Ê|\C70/rm/m/n/12.045
+/ff ^^L| \C70/rm/m/n/12.045/51 Æ \C70/rm/m/n/12.045/78 n \C70/rm/m/n/12.045/73 
+‡ \C70/rm/m/n/12.045/8f ¾ \C70/rm/m/n/12.045/52 0\T1/ntxtlf/m/n/12.045 96%|\C70
+/rm/m/n/12.045/ff ^^L| \C70/rm/m/n/12.045/4f F \C70/rm/m/n/12.045/66 / \C70/rm/
+m/n/12.045/8b å \C70/rm/m/n/12.045/65 ¹ \C70/rm/m/n/12.045/6c Õ \C70/rm/m/n/12.
+045/75 ^^_ \C70/rm/m/n/12.045/62 ^^P \C70/rm/m/n/12.045/6c è \C70/rm/m/n/12.045
+/91 Ê \C70/rm/m/n/12.045/4e § \C70/rm/m/n/12.045/91 Ï \C70/rm/m/n/12.045/8f ƒ \
+C70/rm/m/n/12.045/4f N|\C70/rm/m/n/12.045/30 ^^B| \T1/ntxtlf/m/n/12.045 McBurne
+y
+ []
+
+[2] [3 <./Img/1.jpg>]
+LaTeX Font Info:    Try loading font information for T1+ntxsups on input line 4
+3.
+ (f:/texlive/2018/texmf-dist/tex/latex/newtx/t1ntxsups.fd
+File: t1ntxsups.fd 2015/01/17 v1.0
+)
+LaTeX Font Info:    Font shape `T1/ntxsups/m/n' will be
+(Font)              scaled to size 12.045pt on input line 43.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 9.03374pt on input line 43.
+LaTeX Font Info:    Font shape `T1/ntxsups/m/n' will be
+(Font)              scaled to size 9.03374pt on input line 43.
+LaTeX Font Info:    Try loading font information for T1+ntxtt on input line 43.
+
+(f:/texlive/2018/texmf-dist/tex/latex/newtx/t1ntxtt.fd
+File: t1ntxtt.fd 2012/04/20 v3.1
+)
+LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
+(Font)              scaled to size 9.03374pt on input line 43.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 5.0pt on input line 43.
+ [4]
+Overfull \hbox (1.68413pt too wide) in paragraph at lines 45--46
+\C70/rm/m/n/12.045/57 ß \C70/rm/m/n/12.045/4e - \C70/rm/m/n/12.045/76 „ \C70/rm
+/m/n/12.045/79 ^ \C70/rm/m/n/12.045/7e Ï \C70/rm/m/n/12.045/67 : \C70/rm/m/n/12
+.045/56 h \C70/rm/m/n/12.045/7f û \C70/rm/m/n/12.045/8b Ñ \T1/ntxtlf/m/n/12.045
+ (neu-ral ma-chine trans-la-tion|\C70/rm/m/n/12.045/ff ^^L| \T1/ntxtlf/m/n/12.0
+45 NMT)|\C70/rm/m/n/12.045/ff ^^L| \T1/ntxtlf/m/n/12.045 NMT \C70/rm/m/n/12.045
+/90 ^^Z \C70/rm/m/n/12.045/5e 8 \C70/rm/m/n/12.045/57 ú \C70/rm/m/n/12.045/4e Ž
+\T1/ntxtlf/m/n/12.045 seq2seq\C70/rm/m/n/12.045/5c ^^F
+ []
+
+[5]) (./Thesis.bbl [6] [7]) [8]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 78.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
  (./Thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 75.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 75.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 78.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 0126F81669A7E6CAA819AB554DB7F6BE;1191.
+(rerunfilecheck)             Checksum: 45791194F2E69EC791CC2C45C4654218;1231.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -2034,22 +2104,15 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 41375 strings out of 492649
- 748368 string characters out of 6133383
- 773666 words of memory out of 5000000
- 44305 multiletter control sequences out of 15000+600000
- 635293 words of font info for 285 fonts, out of 8000000 for 9000
+ 42575 strings out of 492649
+ 765765 string characters out of 6133383
+ 787128 words of memory out of 5000000
+ 45369 multiletter control sequences out of 15000+600000
+ 664715 words of font info for 366 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,9n,94p,10519b,2013s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/s
-imsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows
-/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:
-/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun
-.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Font
-s/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wind
-ows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>
-<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sim
-sun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/F
+ 69i,9n,94p,10519b,2257s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>{f:/texlive/2018/te
+xmf-dist/fonts/enc/dvips/base/ec.enc}<c:/Windows/Fonts/simsun.ttc><c:/Windows/F
 onts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/W
 indows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.t
 tc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/
@@ -2058,34 +2121,53 @@ s/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c
 :/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsu
 n.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fon
 ts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Win
-dows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf
-><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/si
-mhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/
-Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf>{f:/texlive/2018/texmf-dist/fonts
-/enc/dvips/newtx/ntx-ec-tlf.enc}{f:/texlive/2018/texmf-dist/fonts/enc/dvips/tex
--gyre/q-ec.enc}<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Wi
-ndows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.tt
-f><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/s
-imhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows
-/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:
-/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei
-.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Font
-s/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Wind
+dows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc
+><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/si
+msun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/
+Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/
+Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.
+ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts
+/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windo
+ws/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><
+c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sims
+un.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fo
+nts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wi
+ndows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.tt
+c><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/s
+imsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows
+/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:
+/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun
+.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Font
+s/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Wind
 ows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf>
 <c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/sim
-hei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/F
-onts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/W
-indows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.t
-tf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/
-simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><f:/texliv
-e/2018/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb><f:/texlive/2018/texmf-d
-ist/fonts/type1/public/tex-gyre/qtmb.pfb><f:/texlive/2018/texmf-dist/fonts/type
-1/public/tex-gyre/qtmr.pfb><f:/texlive/2018/texmf-dist/fonts/type1/public/newtx
+hei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf>{f:/texlive/2
+018/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{f:/texlive/2018/texmf-dist
+/fonts/enc/dvips/tex-gyre/q-ec.enc}<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fon
+ts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Win
+dows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf
+><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/si
+mhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/
+Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/
+Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.
+ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts
+/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windo
+ws/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><
+c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simh
+ei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fo
+nts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Wi
+ndows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.tt
+f><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/s
+imhei.ttf><f:/texlive/2018/texmf-dist/fonts/type1/public/newtx/ntxsups-Regular.
+pfb><f:/texlive/2018/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb><f:/texliv
+e/2018/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb><f:/texlive/2018/texmf-d
+ist/fonts/type1/public/tex-gyre/qtmr.pfb><f:/texlive/2018/texmf-dist/fonts/type
+1/public/txfonts/t1xtt.pfb><f:/texlive/2018/texmf-dist/fonts/type1/public/newtx
 /txsys.pfb>
-Output written on Thesis.pdf (3 pages, 437456 bytes).
+Output written on Thesis.pdf (10 pages, 794378 bytes).
 PDF statistics:
- 548 PDF objects out of 1000 (max. 8388607)
- 376 compressed objects within 4 object streams
- 17 named destinations out of 1000 (max. 500000)
- 338 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 799 PDF objects out of 1000 (max. 8388607)
+ 578 compressed objects within 6 object streams
+ 50 named destinations out of 1000 (max. 500000)
+ 387 words of extra memory for PDF output out of 10000 (max. 10000000)
 
